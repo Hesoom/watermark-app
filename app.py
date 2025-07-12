@@ -7,7 +7,7 @@ img_resized = None
 # --- Setup window ---
 app = customtkinter.CTk()
 app.geometry("1000x700")
-app.title("CTk example")
+app.title("WaterMark App")
 
 # --- Functions ---
 
